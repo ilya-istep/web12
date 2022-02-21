@@ -6,4 +6,4 @@
 
 Состав группы
 dev Илья
-
+sychev_mikhail Миша
