@@ -7,4 +7,6 @@
 Состав группы
 dev Илья
 aleksandr_turashov Александр
+olga_polyagina Ольга
+mihail_zakharov Миша
 
