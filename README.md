@@ -6,8 +6,10 @@
 
 Состав группы
 dev Илья
+sychev_mikhail Миша
 aleksandr_turashov Александр
 olga_polyagina Ольга
 mihail_zakharov Миша
 daniil_levin Даниил
+
 
