@@ -6,4 +6,5 @@
 
 Состав группы
 dev Илья
+nina_nesterova Нина
 
