@@ -6,4 +6,7 @@
 
 Состав группы
 dev Илья
+olga_polyagina Ольга
 mihail_zakharov Миша
+
+
